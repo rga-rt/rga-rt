@@ -23,11 +23,4 @@ Sketching rules and letting them draw. **JavaScript**, [**p5.js**](https://p5js.
 
 `Nuxt` · `Vue` · `TypeScript` · `Tailwind CSS` · `Vitest` · `Drizzle` · `Supabase` · `p5.js` · `Processing`
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rga-rt&show_icons=true&hide_border=true&theme=github_dark&card_width=450" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rga-rt&show_icons=true&hide_border=true&card_width=450" alt="rga-rt's GitHub stats" />
-</picture>
-
 <!-- Add links to your portfolio / art gallery / socials below whenever you like. -->
