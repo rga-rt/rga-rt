@@ -23,4 +23,6 @@ Sketching rules and letting them draw. **JavaScript**, [**p5.js**](https://p5js.
 
 `Nuxt` · `Vue` · `TypeScript` · `Tailwind CSS` · `Vitest` · `Drizzle` · `Supabase` · `p5.js` · `Processing`
 
-<!-- Add links to your portfolio / art gallery / socials below whenever you like. -->
+#### Elsewhere
+
+🌐 [rga-rt.com](https://rga-rt.com) · 📷 [Instagram @rga_rtmx](https://www.instagram.com/rga_rtmx/)
